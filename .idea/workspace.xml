@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2440c9b-fd11-4084-bc21-55b9656f1572" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/bg0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/font/generator_config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/font/sfchromefenders-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/font/sfchromefenders-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/font/sfchromefenders-webfont.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +52,16 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ivan_\Projects\Web\Portfolio page\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ivan_\Projects\Web\Portfolio page\resources\font" />
       <recent name="C:\Users\ivan_\Projects\Web\Portfolio page\resources" />
     </key>
   </component>
@@ -77,7 +86,8 @@
       <workItem from="1660063880089" duration="49000" />
       <workItem from="1660075430429" duration="631000" />
       <workItem from="1660414980386" duration="8337000" />
-      <workItem from="1660428953473" duration="5383000" />
+      <workItem from="1660428953473" duration="6732000" />
+      <workItem from="1660488105236" duration="9472000" />
     </task>
     <servers />
   </component>
