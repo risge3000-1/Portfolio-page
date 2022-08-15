@@ -36,6 +36,8 @@ p {
     font-family: 'sf_chrome_fendersregular', Arial, sans-serif;
     margin: 5px;
     font-size: 15pt;
+    width:500px;
+    height:500px;
 }
 
 div {
