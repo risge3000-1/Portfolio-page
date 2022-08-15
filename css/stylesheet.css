@@ -11,7 +11,7 @@ body {
 /*BG picture*/
 body::after{
     content: "";
-    background-image: url("https://github.com/TheTerribleS/Portfolio-page/blob/main/resources/bg0.png");
+    background-image: url("https://theterribles.github.io/Portfolio-page/resources/bg0.png");
     align-content: center;
     opacity: 0.5;
     top: 0;
