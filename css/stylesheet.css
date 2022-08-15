@@ -47,6 +47,9 @@ div {
     background-size: contain;
     width:500px;
     min-height: 50px;
+    text-align: center;
+    align-content: center;
+
 }
 
 button{
