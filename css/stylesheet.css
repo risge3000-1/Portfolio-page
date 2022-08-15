@@ -6,6 +6,9 @@ body {
     background-size: auto;
     font-family: Arial;
     text-align: center;
+    display: inline-block;
+    justify-content: center;
+
 }
 
 /*BG picture*/
@@ -20,6 +23,7 @@ body::after{
     right: 0;
     position: absolute;
     z-index: -1;
+    background-position: center;
 }
 
 
@@ -42,7 +46,7 @@ div {
     background-color: rgba(84, 0, 125,0.5);
     background-size: contain;
     width:500px;
-    min-height: 100px;
+    min-height: 50px;
 }
 
 button{

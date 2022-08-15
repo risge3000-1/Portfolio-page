@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2440c9b-fd11-4084-bc21-55b9656f1572" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/bg0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/font/generator_config.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/font/sfchromefenders-demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/font/sfchromefenders-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/font/sfchromefenders-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="f2440c9b-fd11-4084-bc21-55b9656f1572" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ivan_/Projects/Web/Portfolio page/resources",
+    "last_opened_file_path": "C:/Users/Alumno 7/Git/Portfolio-page",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -88,6 +79,7 @@
       <workItem from="1660414980386" duration="8337000" />
       <workItem from="1660428953473" duration="6732000" />
       <workItem from="1660488105236" duration="9472000" />
+      <workItem from="1660575737182" duration="1042000" />
     </task>
     <servers />
   </component>
