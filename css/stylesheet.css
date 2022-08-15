@@ -11,7 +11,7 @@ body {
 /*BG picture*/
 body::after{
     content: "";
-    background-image: url("/resources/bg0.png");
+    background-image: url("https://theterribles.github.io/Portfolio-page/resources/bg0.png");
     align-content: center;
     opacity: 0.5;
     top: 0;
@@ -65,8 +65,8 @@ button:hover {
 
 @font-face {
     font-family: 'sf_chrome_fendersregular';
-    src: url('/resources/font/sfchromefenders-webfont.woff2') format('woff2'),
-    url('/resources/font/sfchromefenders-webfont.woff') format('woff');
+    src: url('https://theterribles.github.io/Portfolio-page/resources/font/sfchromefenders-webfont.woff2') format('woff2'),
+    url('https://theterribles.github.io/Portfolio-page/resources/font/sfchromefenders-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
