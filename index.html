@@ -12,7 +12,6 @@
 <header>
     <div>
         <h1 id="Name">Iván Santiago Gutiérrez Estrada</h1>
-
     </div>
 </header>
 <main>
@@ -23,10 +22,21 @@
         </p>
     </div>
     <div>
-        <button>Video game portfolio</button>
-        <button>Blender portfolio</button>
-        <button>VRChat Avatars Portfolio</button>
+        <button onclick="DisplayElement('gamePortfolio', !GetIsDisplaying('gamePortfolio'))">Video game portfolio</button>
+        <button onclick="DisplayElement('blenderPortfolio', !GetIsDisplaying('blenderPortfolio'))">Blender portfolio</button>
+        <button onclick="DisplayElement('avatarsPortfolio', !GetIsDisplaying('avatarsPortfolio'))">VRChat Avatars Portfolio</button>
     </div>
+
+    <div id="gamePortfolio">
+
+    </div>
+    <div id="blenderPortfolio">
+        <p>Coming soon!</p>
+    </div>
+    <div id="avatarsPortfolio">
+        <p>Coming soon!</p>
+    </div>
+
 </main>
 
     <script src="index.js">

@@ -6,8 +6,10 @@ body {
     background-size: auto;
     font-family: Arial;
     text-align: center;
-    display: inline-block;
+    display: inherit;
+    align-content: center;
     justify-content: center;
+    margin:  0 auto;
 
 }
 
@@ -35,11 +37,25 @@ h1 {
     font-size: 35pt;
     font-weight: normal;
 }
+
+h2 {
+
+    color: #d580ff;
+    font-family: 'sf_chrome_fendersregular', Arial, sans-serif;
+    margin: 5px;
+    font-size: 25pt;
+    font-weight: normal;
+}
 p {
     color: rgb(234, 191, 255);
     font-family: 'sf_chrome_fendersregular', Arial, sans-serif;
     margin: 5px;
     font-size: 15pt;
+}
+
+a
+{
+    color: #a643e1;
 }
 
 div {
@@ -50,6 +66,7 @@ div {
     text-align: center;
     align-content: center;
     position: center;
+    margin:  0 auto;
 
 }
 
