@@ -53,6 +53,12 @@ p {
     font-size: 15pt;
 }
 
+img
+{
+    width: 315px;
+    height: auto;
+}
+
 a
 {
     color: #a643e1;
