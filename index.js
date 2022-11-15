@@ -39,7 +39,7 @@ for (var i = 0; i< fullPortfolio.gamePortfolio.length; i++)
     var projectBlock = document.createElement('div');
 
     var title = document.createElement('h2');
-    title.innerHTML = "" + fullPortfolio.gamePortfolio[i].Name;
+    title.innerHTML = "" + fullPortfolio.gamePortfolio[i].tle;
 
     var description = document.createElement('p');
     description.innerHTML = fullPortfolio.gamePortfolio[i].desc;
@@ -54,6 +54,7 @@ for (var i = 0; i< fullPortfolio.gamePortfolio.length; i++)
     redirect.append(linkText);
     redirect.title = "Check it out!"
     redirect.href = fullPortfolio.gamePortfolio[i].src;
+    redirect.target = "_blank";
 
     projectBlock.append(title);
     projectBlock.append(pic);

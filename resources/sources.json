@@ -4,35 +4,35 @@
   "aboutImg": "",
   "gamePortfolio": [
     {
-      "Name"   : "Achto Ahmo Tali",
+      "tle"   : "Achto Ahmo Tali",
       "desc"  : "Walking simulator en un planeta con ruinas",
       "img"   : "https://img.itch.zone/aW1nLzM2NzQ3OTUucG5n/315x250%23c/M3hPIj.png",
       "src"   : "https://theterribles.itch.io/achto-ahmo-tlali",
       "tags"  : []
     },
     {
-      "Name"   : "QKey",
+      "tle"   : "QKey",
       "desc"  : "Puzzle pint & click que te explica cómo funcionan los cubits",
       "img"   : "https://img.itch.zone/aW1nLzMxMDM3OTkucG5n/315x250%23c/ba7MPr.png",
       "src"   : "https://theterribles.itch.io/qkey",
       "tags"  : []
     },
     {
-      "Name"   : "V.I.V.: Delivery Drone",
+      "tle"   : "V.I.V.: Delivery Drone",
       "desc"  : "Dron de entregas, hecho videojuego (opción para RV!)",
       "img"   : "https://img.itch.zone/aW1nLzU5NDkwMzkucG5n/315x250%23c/0lEYlp.png",
       "src"   : "https://theterribles.itch.io/viv-delivery-drone",
       "tags"  : []
     },
     {
-      "Name"   : "Visual nav sea",
+      "tle"   : "Visual nav sea",
       "desc"  : "Controla un bote con el poder de tu mirada (opción para RV!)",
       "img"   : "https://theterribles.github.io/Portfolio-page/resources/navseaPic.jpg",
       "src"   : "https://theterribles.itch.io/vrsea",
       "tags"  : []
     },
     {
-      "Name"   : "Al otro lado del río",
+      "tle"   : "Al otro lado del río",
       "desc"  : "Una historia de una viejita que llega al Tlalocan",
       "img"   : "https://img.itch.zone/aW1nLzcyNjIxNTEuanBn/315x250%23c/HD1Lw5.jpg",
       "src"   : "https://theterribles.itch.io/al-otro-lado-del-ro-respaldo",
