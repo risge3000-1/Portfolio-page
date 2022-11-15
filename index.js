@@ -17,8 +17,14 @@ document.getElementById("avatarsPortfolio").style.display = 'none';
 
 function DisplayElement(elementId, display)
 {
+
+
     if (display)
     {
+        if (elementId !== "gamePortfolio") document.getElementById("gamePortfolio").style.display = 'none';
+        if (elementId !== "blenderPortfolio") document.getElementById("blenderPortfolio").style.display = 'none';
+        if (elementId !== "avatarsPortfolio") document.getElementById("avatarsPortfolio").style.display = 'none';
+
         document.getElementById(elementId).style.display = 'block';
     }
     else
