@@ -43,6 +43,7 @@ console.log(fullPortfolio);
 for (var i = 0; i< fullPortfolio.gamePortfolio.length; i++)
 {
     var projectBlock = document.createElement('div');
+    projectBlock.style.backgroundColor = 'rgb(55,0,86)';
 
     var title = document.createElement('h2');
     title.innerHTML = "" + fullPortfolio.gamePortfolio[i].tle;
