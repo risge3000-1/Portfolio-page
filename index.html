@@ -16,12 +16,68 @@
 </header>
 <main>
     <div>
-        <p id="bio">Programador (y a veces diseñador) de gameplay.
+        <p id="Tagline">Programador (y a veces diseñador) de gameplay.
             Modelador lowpoly y scripter (ambos amateur) en Blender.
             Creador de avatares para VRChat.
         </p>
     </div>
     <div>
+        <h1>Sobre mí</h1>
+        <button id="aboutButton" onclick="DisplayElement('about', !GetIsDisplaying('about'))">[Mostrar]</button>
+        <div id="about" style="text-align: left;display: none;">
+            <p>
+                Actualmente programador senior en un proyecto independiente, lead programmer y diseñador en JeeTP Games, frontend developer en Dreidel. Continuando estudios de Desarrollo y programación de videojuegos.
+            </p>
+            <p>
+                7 juegos publicados. Uno de ellos para el Museo Nacional de Antropología. Otro para Club Premier de Aeroméxico
+            </p>
+            <p>
+                Experiencia en Python, C++, Blender (modelado y shaders), Unity, UE4 y Avatares para VRChat.
+            </p>
+
+        </div>
+
+        <h1>Skills</h1>
+        <button id ="skillsButton" onclick="DisplayElement('skills', !GetIsDisplaying('skills'))">[Mostrar]</button>
+        <div id="skills" style="display: none; text-align: left; align-content: baseline ">
+            <h2>Hard</h2>
+            <ul>
+                <li>C++</li>
+                <li>C#</li>
+                <li>Python</li>
+                <li>Unity</li>
+                <li>UE4</li>
+                <li>Blender</li>
+                <li>Git (GitHub, Plastic SCM, sourcetree)</li>
+            </ul>
+            <h2>Soft</h2>
+            <ul>
+                <li>Liderazgo de proyectos</li>
+                <li>facilidad de habla</li>
+                <li>Inglés avanzado</li>
+                <li>Manejo de equipos internacionales</li>
+            </ul>
+
+        </div>
+
+        <h1>Contacto</h1>
+        <button id="contactButton" onclick="DisplayElement('contact', !GetIsDisplaying('contact'))">[Mostrar]</button>
+        <div id="contact" style="display: none">
+        <p>
+            <a href="https://www.twitter.com/risge3000">twitter</a>
+            <a href="https://theterribles.itch.io/">itch.io</a>
+            <a href="https://github.com/TheTerribleS">Github</a>
+            <a href="mailto:ivansantiagoge@gmail.com">Mail</a>
+            <a href="https://youtu.be/mB4qSmAt2wU">Demo reel</a>
+        </p>
+        </div>
+    </div>
+
+
+
+
+    <div>
+        <h1>Portafolio(s)</h1>
         <button onclick="DisplayElement('gamePortfolio', !GetIsDisplaying('gamePortfolio'))">Video game portfolio</button>
         <button onclick="DisplayElement('blenderPortfolio', !GetIsDisplaying('blenderPortfolio'))">Blender portfolio</button>
         <button onclick="DisplayElement('avatarsPortfolio', !GetIsDisplaying('avatarsPortfolio'))">VRChat Avatars Portfolio</button>

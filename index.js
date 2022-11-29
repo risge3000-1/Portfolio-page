@@ -17,8 +17,6 @@ document.getElementById("avatarsPortfolio").style.display = 'none';
 
 function DisplayElement(elementId, display)
 {
-
-
     if (display)
     {
         if (elementId !== "gamePortfolio") document.getElementById("gamePortfolio").style.display = 'none';

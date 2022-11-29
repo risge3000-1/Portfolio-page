@@ -53,6 +53,14 @@ p {
     font-size: 15pt;
 }
 
+li
+{
+    color: rgb(234, 191, 255);
+    font-family: 'sf_chrome_fendersregular', Arial, sans-serif;
+    margin: 5px;
+    font-size: 15pt;
+}
+
 img
 {
     width: 315px;
