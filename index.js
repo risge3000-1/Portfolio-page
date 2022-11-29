@@ -17,6 +17,8 @@ document.getElementById("avatarsPortfolio").style.display = 'none';
 
 function DisplayElement(elementId, display)
 {
+    AlterButtonText(elementId, display)
+
     if (display)
     {
         if (elementId !== "gamePortfolio") document.getElementById("gamePortfolio").style.display = 'none';
@@ -29,6 +31,17 @@ function DisplayElement(elementId, display)
     {
         document.getElementById(elementId).style.display = 'none';
     }
+}
+
+function AlterButtonText(elementId, display)
+{
+    if (elementId === "gamePortfolio" || elementId === "blenderPortfolio" || elementId === "avatarsPortfolio") return;
+
+    let buttonText = display ? "[Ocultar]":"[Mostrar]" ;
+
+    if      (elementId === "about")   document.getElementById("aboutButton").innerHTML   = buttonText;
+    else if (elementId === "contact") document.getElementById("contactButton").innerHTML = buttonText;
+    else if (elementId === "skills")  document.getElementById("skillsButton").innerHTML  = buttonText;
 }
 
 function GetIsDisplaying(elementId)
